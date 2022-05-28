@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/parqueadero-james.appspot.com/o/kakashi.jpg?alt=media&token=8f0e2cdf-2ce9-4c4c-a049-91cca399ae3a');
+    background-position: top center;
+    background-size: cover;
+    padding: 10% 20% 30% 20%;
+}
